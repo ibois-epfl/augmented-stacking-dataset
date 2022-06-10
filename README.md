@@ -4,8 +4,9 @@
 
 
 Dataset of stone files for augmented stacking project.
-
 Stones are stored in .ply format in both mesh and point cloud format.
+For more info contact [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch)
+
 
 
 
