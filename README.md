@@ -27,7 +27,7 @@
 
 
 
-Dataset of stone files for augmented stacking project.
+Dataset of stone files for [augmented stacking project](https://github.com/ibois-epfl/augmented-stacking).
 Stones are stored in .ply in both mesh and point cloud format.
 For more info contact [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch)
 
