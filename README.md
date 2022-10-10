@@ -1,4 +1,4 @@
-<h1 align="center">Stone dataset for augmented-stacking</h1>
+<h1 align="center">Stones dataset for augmented-stacking</h1>
 
 <div align = "center">
     <a href="https://zenodo.org/badge/latestdoi/464924942">
