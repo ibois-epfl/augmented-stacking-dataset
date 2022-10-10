@@ -31,6 +31,24 @@ Dataset of stone files for [augmented stacking project](https://github.com/ibois
 Stones are stored in .ply in both mesh and point cloud format.
 For more info contact [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch)
 
-
-
+Structure of the repo:
+```bash
+.
+├── img
+│   ├── *.png
+├── README.md
+├── stones
+│   ├── mesh_high_res
+│   │   ├── remeshed_high_res_A0.ply
+│   │   ├── remeshed_high_res_A10.ply
+│   │   ├── ...
+│   │   └── remeshed_high_res_E56.ply
+│   └── pcd_high_res
+│       ├── pcd_high_res_A0.ply
+│       ├── pcd_high_res_A10.ply
+│       ├── ...
+│       └── pcd_high_res_E56.ply
+└── util
+    └── *.py
+```
 
