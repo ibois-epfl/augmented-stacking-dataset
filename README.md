@@ -26,9 +26,10 @@
 <br />
 
 
+The stone dataset is composed of mineral scraps issued from quarry extraction operations. The inventory has been developed for the [augmented stacking project](https://github.com/ibois-epfl/augmented-stacking).
 
-Dataset of stone files for [augmented stacking project](https://github.com/ibois-epfl/augmented-stacking).
 Stones are stored in .ply in both mesh and point cloud format.
+
 For more info contact [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch)
 
 Structure of the repo:
@@ -52,3 +53,15 @@ Structure of the repo:
     └── *.py
 ```
 
+The dataset is distributed under a MIT license: feel free to use it and cite it in your own research work. Here's the BibTeX snippet:
+```bibitex
+@misc{stonedataset2022,
+    author = {Andrea Settimi and Qianqing Wang and Julien Gamerro and Katrin Beyer and Yves Weinand},
+    year = {2022},
+    title = {Dataset of Mineral Acraps for Augmented Stacking},
+    owner = {IBOIS, EESD, EPFL},
+    timestamp = {2022.10.10},
+    howpublished = {\url=http://dx.doi.org/10.4225/13/511C71F8612C3},  # TO BE REPLACED
+    doi = {10.4225/13/511C71F8612C3},                                  # TO BE REPLACED
+}
+```
