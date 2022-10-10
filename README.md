@@ -65,7 +65,7 @@ The dataset is distributed under a MIT license: feel free to use it and cite it 
     title = {Dataset of Mineral Acraps for Augmented Stacking},
     owner = {IBOIS, EESD, EPFL},
     timestamp = {2022.10.10},
-    howpublished = {\url=http://dx.doi.org/10.4225/13/511C71F8612C3},  # TO BE REPLACED
-    doi = {10.4225/13/511C71F8612C3},                                  # TO BE REPLACED
+    howpublished = {\url=https://zenodo.org/badge/latestdoi/464924942},
+    doi = {10.5281/zenodo.7180964},
 }
 ```
