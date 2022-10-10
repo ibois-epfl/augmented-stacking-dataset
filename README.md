@@ -8,7 +8,7 @@
         <img src = "https://img.shields.io/badge/license-MIT-green--gray" alt = "License" />
     </a>
     <a href = "http://hits.dwyl.com/ibois-epfl/augmented-stacking">
-	    <img src = "https://hits.dwyl.com/ibois-epfl/augmented-stacking.svg?style=flat" alt = "Hints" />
+	    <img src = "https://hits.dwyl.com/ibois-epfl/augmented-stacking-dataset.svg?style=flat" alt = "Hints" />
     </a>
 </div>
 
