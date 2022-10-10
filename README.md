@@ -67,14 +67,4 @@ Structure of the repo:
 ```
 
 The dataset is distributed under a MIT license: feel free to use it and cite it in your own research work. Here's the BibTeX snippet:
-```bibitex
-@misc{stonedataset2022,
-    author = {Andrea Settimi and Qianqing Wang and Julien Gamerro and Katrin Beyer and Yves Weinand},
-    year = {2022},
-    title = {Dataset of Mineral Acraps for Augmented Stacking},
-    owner = {IBOIS, EESD, EPFL},
-    timestamp = {2022.10.10},
-    howpublished = {\url=https://zenodo.org/badge/latestdoi/464924942},
-    doi = {10.5281/zenodo.7180964},
-}
-```
+https://github.com/ibois-epfl/augmented-stacking-dataset/blob/e1e3865443f1be0f47d5781fee31218fe56ce105/CITATION.cff#L1-L9
