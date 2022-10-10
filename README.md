@@ -1,6 +1,10 @@
 <h1 align="center">Stone dataset for augmented-stacking</h1>
 
 <p align="center">
+    <a href="https://zenodo.org/badge/latestdoi/464924942"><img src="https://zenodo.org/badge/464924942.svg" alt="DOI"></a>
+</p>
+
+<p align="center">
     <img src="https://user-images.githubusercontent.com/50238678/173020102-c50f7609-2276-4d5a-8ca2-f5791145dc32.gif" width="400">
 </p>
 <br/>
