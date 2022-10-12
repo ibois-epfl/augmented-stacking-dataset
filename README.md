@@ -1,8 +1,8 @@
 <h1 align="center">Stones dataset for augmented-stacking</h1>
 
 <div align = "center">
-    <a href="https://zenodo.org/badge/latestdoi/464924942">
-        <img src="https://zenodo.org/badge/464924942.svg" alt="DOI">
+    <a href="https://doi.org/10.5281/zenodo.7189478">
+    	<img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7189478.svg" alt="DOI">
     </a>
     <a href = "https://github.com/ibois-epfl/augmented-stacking">
         <img src = "https://img.shields.io/badge/license-MIT-green--gray" alt = "License" />
