@@ -1,4 +1,17 @@
-<h1 align="center">Stone dataset for augmented-stacking</h1>
+<h1 align="center">Stones dataset for augmented-stacking</h1>
+
+<div align = "center">
+    <a href="https://zenodo.org/badge/latestdoi/464924942">
+        <img src="https://zenodo.org/badge/464924942.svg" alt="DOI">
+    </a>
+    <a href = "https://github.com/ibois-epfl/augmented-stacking">
+        <img src = "https://img.shields.io/badge/license-MIT-green--gray" alt = "License" />
+    </a>
+    <a href = "http://hits.dwyl.com/ibois-epfl/augmented-stacking">
+	    <img src = "https://hits.dwyl.com/ibois-epfl/augmented-stacking-dataset.svg?style=flat" alt = "Hints" />
+    </a>
+</div>
+
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/50238678/173020102-c50f7609-2276-4d5a-8ca2-f5791145dc32.gif" width="400">
@@ -26,11 +39,32 @@
 <br />
 
 
+The stone dataset is composed of mineral scraps issued from quarry extraction operations. The inventory has been developed for the [augmented stacking project](https://github.com/ibois-epfl/augmented-stacking).
 
-Dataset of stone files for augmented stacking project.
 Stones are stored in .ply in both mesh and point cloud format.
+
 For more info contact [andrea.settimi@epfl.ch](andrea.settimi@epfl.ch)
 
+Structure of the repo:
+```bash
+.
+├── img
+│   ├── *.png
+├── README.md
+├── stones
+│   ├── mesh_high_res
+│   │   ├── remeshed_high_res_A0.ply
+│   │   ├── remeshed_high_res_A10.ply
+│   │   ├── ...
+│   │   └── remeshed_high_res_E56.ply
+│   └── pcd_high_res
+│       ├── pcd_high_res_A0.ply
+│       ├── pcd_high_res_A10.ply
+│       ├── ...
+│       └── pcd_high_res_E56.ply
+└── util
+    └── *.py
+```
 
-
-
+The dataset is distributed under a MIT license: feel free to use it and cite it in your own research work. Here's the BibTeX snippet:
+https://github.com/ibois-epfl/augmented-stacking-dataset/blob/e1e3865443f1be0f47d5781fee31218fe56ce105/CITATION.cff#L1-L9
